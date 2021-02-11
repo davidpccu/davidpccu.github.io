@@ -84,7 +84,7 @@
 
         $(window).load(function() {
             $(".typing").typed({
-                strings: ["I am Liwen Su.", "I Design Software.", "I Work at ColaTour.", "I have a Pure Passion Of Coding!"],
+                strings: ["I am Liwen Su.", "I Design Software.", "I Work at Taishin Bank.", "I have a Pure Passion Of Coding!"],
                 typeSpeed: 50
             });
         });
